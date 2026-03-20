@@ -23,7 +23,7 @@ Here are the relevant files:
 
 With this library you can create the following marker objects much easier
 1. CUBE
-2. SQUARE
+2. SPHERE
 3. LINE_LIST
 4. LINE_STRIP
 
