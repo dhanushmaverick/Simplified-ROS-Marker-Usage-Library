@@ -1,7 +1,7 @@
 Note: This repository is a curated version created to showcase the final implementation and key outcomes of the project. It does not contain the complete original commit history from the development phase. 
 
 AUTHORS:
-1. V.B.Dhanush 
+1. V.B.Dhanush [Project Lead]
 2. Praneeth Manickam 
 3. Akshat Pathak
 4. Kareem 
